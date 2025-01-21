@@ -3,7 +3,7 @@
 A simple Google Chrome extension for translating text between different keyboard layouts (Ukrainian, English, and Russian).  
 
 ## 🚀 Features  
-✅ Convert text between **Ukrainian (uk), English (en), and Russian (ru)** keyboard layouts.  
+✅ Convert text between **Ukrainian (uk), English (en), and (ru)** keyboard layouts.  
 ✅ Simple and clean popup interface.  
 ✅ No icons, just pure functionality.  
 
