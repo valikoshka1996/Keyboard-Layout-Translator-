@@ -25,7 +25,7 @@ A simple Google Chrome extension for translating text between different keyboard
 ## 🛠 Supported Keyboard Layouts  
 - **Ukrainian (uk)** → `йцукенгшщзхїфівапролджєячсмитьбю.`  
 - **English (en)** → `qwertyuiop[]asdfghjkl;'zxcvbnm,./`  
-- **Russian (ru)** → `йцукенгшщзхъфывапролджэячсмитьбю.`  
+- ** (ru)** → `йцукенгшщзхъфывапролджэячсмитьбю.`  
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
